@@ -30,3 +30,5 @@ CMake*
 *~
 tags
 mkmf.log
+
+tests-clar/resources/issue_592b/.gitted/config
